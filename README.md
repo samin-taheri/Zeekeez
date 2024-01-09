@@ -1,4 +1,4 @@
-# Zeekeez: Find, Book, Move. UAE Property Portal: Properties for Sale and Rent in Dubai, Abu Dhabi, and UAE
+# Zeekeez(made by React and Next.js): Find, Book, Move. UAE Property Portal: Properties for Sale and Rent in Dubai, Abu Dhabi, and UAE
 
 ## How it Works? 
 3 Simple Steps
