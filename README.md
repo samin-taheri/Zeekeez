@@ -7,6 +7,25 @@
 ### 3- Share your requirements and find your next home: Share your criterias in 1 click during each research.
 
 
+
+
+![propertypreferences_desktop](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/74e0c4c1-cc4f-40b8-884b-1387a445c13e)
+
+
+
+![iPad Pro (Landscape)](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/a6cf58c0-37c8-4bb8-803c-4c72fe0302f0)
+
+
+
+![joinzeekeez_mobile](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/343ceb15-67b2-4cd2-a344-7104392c70b7)
+
+
+
+![home_desktop](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/164a1a9c-a018-4bfd-ad92-f18b35051bc9)
+
+
+
+
 <img width="1440" alt="Screenshot 2024-01-09 at 12 35 34" src="https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/35891e28-0a42-4d10-945f-cc13d1dd4d18">
 
 
@@ -39,18 +58,4 @@
 <img width="1440" alt="Screenshot 2024-01-09 at 13 00 58" src="https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/58950275-5878-4b4b-aade-262b74b9679d">
 
 
-
-![propertypreferences_desktop](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/74e0c4c1-cc4f-40b8-884b-1387a445c13e)
-
-
-
-![iPad Pro (Landscape)](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/a6cf58c0-37c8-4bb8-803c-4c72fe0302f0)
-
-
-
-![joinzeekeez_mobile](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/343ceb15-67b2-4cd2-a344-7104392c70b7)
-
-
-
-![home_desktop](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/164a1a9c-a018-4bfd-ad92-f18b35051bc9)
 
