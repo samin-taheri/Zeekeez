@@ -2,9 +2,9 @@
 
 ## How it Works? 
 3 Simple Steps
-### 1- Create Your Free Account: Register on Zeekeez and set up your profile in a few clicks.
-### 2- Select your property settings: Enter the information of your research.
-### 3- Share your requirements and find your next home: Share your criterias in 1 click during each research.
+#### 1- Create Your Free Account: Register on Zeekeez and set up your profile in a few clicks.
+#### 2- Select your property settings: Enter the information of your research.
+#### 3- Share your requirements and find your next home: Share your criterias in 1 click during each research.
 
 
 
