@@ -1,0 +1,115 @@
+.breadcrumbdiv {
+  padding-left: 2rem;
+  font-size: .8rem;
+  margin-bottom: .5rem;
+}
+
+.breadcrumbdiv a {
+  text-decoration: underline;
+  color: #747474;
+}
+
+.breadcrumb .breadcrumb-item:last-child a {
+  font-family: 'Gilroy-Bold ☞';
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: var(--bs-breadcrumb-divider, ">");
+}
+
+@media (max-width: 768px) {
+  .breadcrumb {
+    font-size: .75rem!important;
+    margin-bottom: 2rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .breadcrumbdiv.withbacklink {
+    display: flex;
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .breadcrumbdiv.withbacklink .breadcrumb {
+    margin-top: .5rem;
+    /*white-space: nowrap;*/
+    /*flex-wrap: nowrap;*/
+    /*overflow-x: hidden;*/
+  }
+}
+
+.breadcrumbdiv a.backtohomelink {
+  color: #111;
+  display: flex;
+  gap: .75rem;
+  text-decoration: none;
+}
+
+.breadcrumbdiv a.backtohomelink span:last-child {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .breadcrumb-item + .breadcrumb-item::before {
+    padding-right: .4rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .breadcrumb-item + .breadcrumb-item {
+    padding-left: .4rem;
+  }
+}
+
+.breadcrumb .breadcrumb-item:last-child a span {
+}
+
+.breadcrumb {
+  --bs-breadcrumb-padding-x: 0;
+  --bs-breadcrumb-padding-y: 0;
+  --bs-breadcrumb-margin-bottom: 1rem;
+  --bs-breadcrumb-divider-color: #6c757d;
+  --bs-breadcrumb-item-padding-x: 0.75rem;
+  --bs-breadcrumb-item-active-color: #6c757d;
+  display: flex;
+  flex-wrap: wrap;
+  padding: var(--bs-breadcrumb-padding-y) var(--bs-breadcrumb-padding-x);
+  margin-bottom: var(--bs-breadcrumb-margin-bottom);
+  font-size: var(--bs-breadcrumb-font-size);
+  list-style: none;
+  background-color: var(--bs-breadcrumb-bg);
+  border-radius: var(--bs-breadcrumb-border-radius);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+* {
+  /*outline: none;*/
+  /*padding: 0;*/
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  outline: none;
+  padding: 0;
+}
+
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+*::before {
+  margin: 0;
+  padding: 0;
+}
+

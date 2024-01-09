@@ -1,0 +1,67 @@
+.myinputdiv label {
+  color: #fff;
+  margin-left: .5rem;
+  margin-bottom: .25rem;
+  font-family: 'Gilroy-Bold ☞';
+}
+
+.inputwithicondiv {
+  position: relative;
+}
+
+.inputwithicondiv svg, .inputwithicondiv i {
+  position: absolute;
+  bottom: 50%;
+  left: .5rem;
+  transform: translateY(50%);
+  font-size: 1.5rem;
+  color: #111111;
+}
+
+.inputwithicondiv .myinput {
+  padding-left: 2.5rem!important;
+}
+
+.searchbarrow .myinput {
+  padding-left: .5rem;
+}
+
+.searchbarrow .myinput {
+  background-color: #f2f4f8;
+}
+
+.myinput {
+  border: none;
+  border-radius: .75rem;
+  height: 3rem;
+  padding-left: 1rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+* {
+  /*outline: none;*/
+  /*padding: 0;*/
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  outline: none;
+  padding: 0;
+}
+
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+*::before {
+  margin: 0;
+  padding: 0;
+}
+

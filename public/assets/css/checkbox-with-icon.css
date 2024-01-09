@@ -1,0 +1,44 @@
+.form-check.boxed-check [type="checkbox"]:checked + label .check-box-box {
+  background-color: #111;
+  color: #f2f4f8;
+  border-color: #111;
+}
+
+.form-check.boxed-check [type="checkbox"] + label .check-box-box {
+  background-color: #f7f7f7;
+  aspect-ratio: 1;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  color: var(--bs-secondary);
+  border-radius: .5rem;
+  border-color: var(--bs-secondary);
+  border-style: solid;
+  border-width: 1px;
+  width: 2.5rem;
+  cursor: pointer;
+  margin: auto;
+}
+
+.form-check.boxed-check [type="checkbox"] + label {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  justify-content: center;
+  text-align: center;
+  justify-items: center;
+  font-size: .8rem;
+  font-family: 'Gilroy-Bold ☞';
+  color: var(--bs-secondary);
+}
+
+.boxed-check .form-check-input {
+  display: none;
+}
+
+.boxed-check {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+

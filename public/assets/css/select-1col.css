@@ -1,0 +1,136 @@
+.myinputdiv label {
+  color: #fff;
+  margin-left: .5rem;
+  margin-bottom: .25rem;
+  font-family: 'Gilroy-Bold ☞';
+}
+
+.searchbarrow .myinput {
+  padding-left: .5rem;
+}
+
+.myinput.myinputdropdown {
+  width: 100%;
+}
+
+.myinputdropdownmother .dropdown-menu {
+  border: none;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.myinput.myinputdropdown {
+  padding-left: .5rem;
+  background-color: #ffffff;
+  color: #111;
+  text-align: left;
+}
+
+.searchbarrow .myinput {
+  background-color: #f2f4f8;
+}
+
+.myinputdiv .dropdown-menu label, .myinputdiv2 .dropdown-menu label {
+  color: #111;
+  margin-left: 0;
+  font-family: 'Gilroy-Light ☞';
+  width: 100%;
+}
+
+.radiolist .form-check {
+  margin-bottom: 0!important;
+}
+
+.radiolist .form-check:last-child .form-check-label {
+  margin-bottom: 0;
+}
+
+.yataydahep .myinputdropdownmother, .yataydahep .dropmothermother {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .yataydahep .dropmothermother .btn::after {
+    right: 1rem;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+@media (min-width: 768px) {
+  .searchbarrow .myinput.myinputdropdown {
+    text-align: left;
+  }
+}
+
+.searchbarrow .myinput.myinputdropdown::after {
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.myinputdiv .dropdown-menu .radiolist label, .myinputdiv2 .dropdown-menu .radiolist label {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.myinputdiv .dropdown-menu .radiolist.monolabel label {
+  justify-content: start;
+}
+
+.myinputdiv .dropdown-menu label.mainlabel {
+  font-family: 'Gilroy-Bold ☞';
+}
+
+.form-check-input {
+  border-color: #111111;
+}
+
+.form-check-input {
+  background-color: rgba(242,244,248,0);
+}
+
+.myinput.myinputdropdown::after {
+  position: absolute;
+  right: .75rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.myinput {
+  border: none;
+  border-radius: .75rem;
+  height: 3rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+* {
+  /*outline: none;*/
+  /*padding: 0;*/
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  outline: none;
+  padding: 0;
+}
+
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+*::before {
+  margin: 0;
+  padding: 0;
+}
+
