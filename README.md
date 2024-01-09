@@ -8,6 +8,9 @@
 
 
 
+![home_desktop](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/164a1a9c-a018-4bfd-ad92-f18b35051bc9)
+
+
 
 ![propertypreferences_desktop](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/74e0c4c1-cc4f-40b8-884b-1387a445c13e)
 
@@ -18,10 +21,6 @@
 
 
 ![joinzeekeez_mobile](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/343ceb15-67b2-4cd2-a344-7104392c70b7)
-
-
-
-![home_desktop](https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/164a1a9c-a018-4bfd-ad92-f18b35051bc9)
 
 
 
