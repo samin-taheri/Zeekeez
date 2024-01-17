@@ -39,7 +39,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/343ceb15-67b2-4cd2-a344-7104392c70b7.png" width="800" />
+      <img src="https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/343ceb15-67b2-4cd2-a344-7104392c70b7.png" width="500" />
     </td>
   </tr>
 </table>
