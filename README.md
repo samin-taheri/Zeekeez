@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/164a1a9c-a018-4bfd-ad92-f18b35051bc9.png" width="700" />
+      <img src="https://github.com/samin-taheri/Zeekeez_Public_Portal_CRM/assets/58706708/164a1a9c-a018-4bfd-ad92-f18b35051bc9.png" width="800" />
     </td>
   </tr>
 </table>
